@@ -244,16 +244,6 @@ table_normes = [[7, 47, 93, ""],
 
 
 
-                                                                                                                                                                                                                                                                                                                                                                                 
-
-
-
-
-
-
-
-
-import numpy as np
 print("CALCULATEUR ETRTO POUR MESURER LES CHAMBRES À AIR")
 print("Ce court programme permet de déterminer les normes ETRTO (et françaises si possible) d'une chambre à air inidentifiée, c'est à dire qui n'a pas de marquage. Cela se fait à partir de deux mesure simples.")
 print("Avant d'entrer ces mesures, le programme propose un facteur de correction visant à rattrapper les potentielles erreurs de mesures. Si vous n'avez pas l'habitude du logiciel, appuyez sur Entrée à cette étape.")
